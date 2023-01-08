@@ -1,0 +1,34 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "John Wick",
+      "year": 2014,
+      "scarry": false
+    },
+    {
+      "id": "2",
+      "title": "Final destination",
+      "year": 2000,
+      "scarry": true
+    },
+    {
+      "id": "3",
+      "title": "Jolt",
+      "year": 2021,
+      "scarry": false
+    },
+    {
+      "id": "4",
+      "title": "Death note",
+      "year": 2006,
+      "scarry": false
+    },
+    {
+      "id": "5",
+      "title": "Smile",
+      "year": 2022,
+      "scarry": true
+    }
+  ]
+}
